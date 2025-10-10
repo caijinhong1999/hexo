@@ -96,7 +96,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# 将主题设置为 hexo-theme-async
+theme: async
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

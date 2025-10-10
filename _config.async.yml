@@ -1,0 +1,3 @@
+theme:
+  switch: true
+  default: style-light # style-light style-dark
