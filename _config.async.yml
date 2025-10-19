@@ -1,3 +1,95 @@
+# 主题
 theme:
   switch: true
   default: style-light # style-light style-dark
+
+# 网站图标
+favicon:
+  logo: img/icon.jpg
+  show_text: (/≧▽≦/)咦！又好了！
+  hide_text: (●—●)喔哟，崩溃啦！
+
+# 导航栏
+top_bars:
+  - title: menu.home
+    url: /
+  - title: 分类
+    url: /categories/
+  - title: 标签
+    url: /tags/
+  - title: menu.archives
+    url: /archives/
+  - title: menu.about
+    url: /about/
+  - title: 相册
+    url: /gallery/
+
+
+banner:
+  use_cover: false # Use the cover image for article details | 文章详情使用封面图
+  danmu: # danmu | 弹幕
+    enable: false # enable | 启用
+    el: .trm-banner # el | 弹幕容器
+  index: ## 首页横幅
+    type: video
+    bgurl: https://cdn.moji.com/websrc/video/video621.mp4
+    banner_title: 灵魂的渴望是命运的先知。
+    banner_text: Hi my new friend!
+  category: ## 归档页横幅
+    type: video
+    bgurl: https://cdn.moji.com/websrc/video/winter20181129.mp4
+    banner_title: 云间连下榻，<br>天上接行杯。
+    banner_text: The article categories
+  tag:
+    type: video
+    bgurl: https://cdn.moji.com/websrc/video/spring20190320.mp4
+    banner_title: 醉后不知天在水，<br>满船清梦压星河。
+    banner_text: The article tags 
+  archive:
+    type: video
+    bgurl: https://cdn.moji.com/websrc/video/video.mp4
+    banner_title: 树深时见鹿，<br>溪午不闻钟。
+    banner_text: The article archive
+
+
+# 侧边栏
+sidebar:
+  typed_text_prefix: I`m
+  typed_text: ["多模态算法工程师","机器人狂热爱好者","UE5游戏设计师","三年全栈软件开发工作经验"]
+  info: # 个人信息
+    - key: ADDRESS
+      val: 悉尼
+    - key: UNIVERSITY
+      val: 新南威尔士大学
+    - key: MAJOR
+      val: 信息技术—人工智能
+    - key: AGE
+      val: 26
+  social: # 社交地址
+    - name: github
+      icon: fab fa-github
+      url: https://github.com/caijinhong1999
+    - name: gitee
+      icon: fas fa-code-branch
+      url: https://gitee.com/caijinhong1999
+    - name: email
+      icon: fas fa-envelope
+      url: mailto:cjh18242065873@163.com
+    - name: wechat
+      icon: fab fa-weixin
+      url: /img/wx.jpg
+    - name: qq
+      icon: fab fa-qq
+      url: /img/qq.jpg
+    
+
+# 用户信息
+user:
+  name: Jessie
+  first_name: Jinhong
+  last_name: CAI
+  email: cjh18242065873@163.com
+  domain: https://jinhongcai.work
+  avatar: /img/cjh.jpg
+  describe: 多模态算法工程师 | 机器人爱好者 | 开源爱好者 | 电子产品DIY爱好者
+  rule_text: 本站所有文章除特别声明外，均采用 CC BY-NC-SA 4.0 许可协议。转载请注明出处！
