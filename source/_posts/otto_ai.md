@@ -2,9 +2,9 @@
 title: OTTO_AI
 date: 2025-10-13 21:34:16
 tags: [舵机, wifi, 多语音交互]
-category: Robotics
+category: robotics
 categories:
-  - Robotics
+  - robotics
 cover: /img/otto_ai.png
 comments: true
 ---

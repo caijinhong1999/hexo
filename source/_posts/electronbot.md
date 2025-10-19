@@ -2,9 +2,9 @@
 title: ElectronBot
 date: 2025-10-13 21:34:16
 tags: [舵机, 串口通信, 动态表情]
-category: Robotics
+category: robotics
 categories:
-  - Robotics
+  - robotics
 cover: /img/electronbot.png
 comments: true
 ---
