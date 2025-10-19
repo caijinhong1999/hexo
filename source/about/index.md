@@ -7,6 +7,7 @@ banner:
   bgurl: https://cdn.moji.com/websrc/video/video621.mp4
   banner_title: 但愿人长久，<br>千里共婵娟。
   banner_text: About me
+comments: true
 ---
 
 # 我的技能
@@ -27,4 +28,11 @@ UE5, Unity, isaacsim
 ### 3D打印
 fusion360, onshape, bambu
 超强执行力和学习力，选我选我选我~
+
+
+<br>
+<script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.38/dist/twikoo.all.min.js"></script>
+<script>twikoo.init({el: '#twikoo',envId: 'https://comment.jinhongcai.work'})</script>
+
+
 

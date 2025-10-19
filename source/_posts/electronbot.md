@@ -2,10 +2,11 @@
 title: ElectronBot
 date: 2025-10-13 21:34:16
 tags: [舵机, 串口通信, 动态表情]
-category: robotics
+category: Robotics
 categories:
-  - robotics
+  - Robotics
 cover: /img/electronbot.png
+comments: true
 ---
 
 独立复刻稚晖君 ElectronBot桌面机器人，硬件包含主控板，传感器版，舵机
@@ -25,3 +26,7 @@ cover: /img/electronbot.png
     </div>
     <!-- video end --></div>
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.38/dist/twikoo.all.min.js"></script>
+<script>twikoo.init({el: '#twikoo',envId: 'https://comment.jinhongcai.work'})</script>
+

@@ -2,10 +2,11 @@
 title: OTTO_AI
 date: 2025-10-13 21:34:16
 tags: [舵机, wifi, 多语音交互]
-category: robotics
+category: Robotics
 categories:
-  - robotics
+  - Robotics
 cover: /img/otto_ai.png
+comments: true
 ---
 
 完整复刻otto_AI小智版桌面机器人，硬件包含主控板，舵机，显示屏，麦克
@@ -25,3 +26,7 @@ cover: /img/otto_ai.png
     </div>
     <!-- video end --></div>
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.38/dist/twikoo.all.min.js"></script>
+<script>twikoo.init({el: '#twikoo',envId: 'https://comment.jinhongcai.work'})</script>
+

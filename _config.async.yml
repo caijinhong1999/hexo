@@ -67,7 +67,7 @@ sidebar:
     - key: UNIVERSITY
       val: 新南威尔士大学
     - key: MAJOR
-      val: 信息技术—人工智能
+      val: 硕士-信息技术-人工智能
     - key: AGE
       val: 26
   social: # 社交地址
@@ -98,3 +98,21 @@ user:
   avatar: /img/cjh.jpg
   describe: 多模态算法工程师 | 机器人爱好者 | 开源爱好者 | 电子产品DIY爱好者
   rule_text: 本站所有文章除特别声明外，均采用 CC BY-NC-SA 4.0 许可协议。转载请注明出处！
+
+# 评论系统所需的第三方脚本（让主题能加载 twikoo）
+assets:
+  internal_provider: unpkg
+  third_party_provider: jsdelivr
+  plugin:
+    # 用主题默认路径即可；要锁新版也可改成 1.6.38
+    twikoo: /twikoo@1.6.7/dist/twikoo.all.min.js
+
+# ！！！关键：只启用 twikoo，彻底禁用 bComments
+comment:
+  enable: true            # 有些版本有这个总开关，写上更稳
+  type: twikoo            # 如果你的主题支持 type/use，写上它，强制选择 twikoo
+  twikoo:
+    enable: true
+    envId: https://comment.jinhongcai.work
+  bComments:
+    enable: false         # ← 必须为 false，或直接把 bComments 这段删掉
