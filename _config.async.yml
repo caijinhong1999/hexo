@@ -5,9 +5,14 @@ theme:
 
 # 网站图标
 favicon:
-  logo: img/icon.jpg
-  show_text: (/≧▽≦/)咦！又好了！
-  hide_text: (●—●)喔哟，崩溃啦！
+  logo: /img/icon.jpg
+  icon16: /img/icon.jpg
+  icon32: /img/icon.jpg
+  apple_touch_icon: /img/icon.jpg
+  visibilitychange: true
+  hidden: failure.ico
+  show_text: (ง •_•)ง 你好呀！
+  hide_text: (o゜▽゜)o 再见！
 
 # 导航栏
 top_bars:
