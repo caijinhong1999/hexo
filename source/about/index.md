@@ -14,20 +14,20 @@ comments: true
 ## 前端
 html, css, js, jq, ajax, angular, ts, vue, react, nodejs, VScode
 ### 后端
-技术：java, springboot, spring, springMVC, mybatis, mybatis plus, idea, eclipse
+技术：java, springboot,  WebSocket, Redis, kafka, Idea, Eclipse
 ### 数据库
-jdbc, Oracle, MySql, MongoDB, PostgraySql, Navicat
+Jdbc, Oracle, MySql, MongoDB, PostgraySql, Navicat
 ### IOT
 C, C++, Arduino, STM32, ESP32, Raspberry Pi, IMU, RSSI, Keil, VPN, MQTT
 ### 算法
-AI, CV, LSTM,NN, DL, ML, Pycharm, Thonny
+AI, CV, LSTM, NN, DL, ML, CNN, VGG, ResNet, EfficientNet, Pycharm, Thonny
 ### 虚拟机
-VM, Oracle VirtualBox, Xshell, 
+VM, Oracle VirtualBox, Xshell, Docker, Linux, Nginx
 ### 计算机图形学
 UE5, Unity, isaacsim
 ### 3D打印
 fusion360, onshape, bambu
-超强执行力和学习力，选我选我选我~
+如果你也对机器人或人工智能感兴趣，欢迎联系我~
 
 
 <br>
