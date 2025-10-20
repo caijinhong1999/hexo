@@ -103,11 +103,3 @@ theme: async
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-# SEO
-# baidusitemap:
-#   path: baidusitemap.xml
-
-# inject:
-#   head:
-#     - '<meta name="baidu-site-verification" content="codeva-LXc1lkYWYS">'
