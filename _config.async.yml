@@ -128,7 +128,7 @@ comment:
 # 站内搜索
 search:
   enable: true
-  type: engine  # engine
+  type: engine  # engine   local
   href: 'https://www.google.com/search?q=site:'
   # href: "https://www.baidu.com/s?wd=site:"
   # href: "https://www.bing.com/search?q=site:"
