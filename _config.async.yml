@@ -107,6 +107,13 @@ assets:
     # 用主题默认路径即可；要锁新版也可改成 1.6.38
     twikoo: /twikoo@1.6.7/dist/twikoo.all.min.js
 
+# 页脚
+footer:
+  live_time:
+    enable: true
+    prefix: footer.tips
+    start_time: 10/10/2025 00:00:00
+
 # ！！！关键：只启用 twikoo，彻底禁用 bComments
 comment:
   enable: true            # 有些版本有这个总开关，写上更稳
