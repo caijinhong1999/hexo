@@ -1,13 +1,15 @@
 ---
 title: OTTO_AI
-date: 2025-10-13 21:34:16
-tags: [舵机, wifi, 多语音交互]
+date: 2025-08-15 00:00:00
+tags: [舵机, wifi通信, 多语种交互]
 category: robotics
 categories:
   - robotics
 cover: /img/otto_ai.png
 comments: true
 ---
+
+起止时间：06/2025 ~ 08/2025
 
 完整复刻otto_AI小智版桌面机器人，硬件包含主控板，舵机，显示屏，麦克
 风，喇叭等器件。复刻流程包含硬件组装，代码调试等步骤。实现功能包括语

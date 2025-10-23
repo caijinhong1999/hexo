@@ -5,48 +5,57 @@ layout: about
 banner:
   type: video
   bgurl: https://cdn.moji.com/websrc/video/video621.mp4
-  banner_title: 但愿人长久，<br>千里共婵娟。
+  banner_title: 海内存知己，<br>天涯若比邻。
   banner_text: About me
 comments: true
 ---
 
-# 我的技能
-## Frontend
+<div class="trm-card trm-contrast trm-active-el">
+
+### 我的技能
+<br>
+
+#### Frontend
 ``` bash
-Html, Css, Js, Jq, Ajax, Angular, Ts, Vue, React, Nodejs, VScode
+Html, Css, Js, Jq, Ts, Ajax, Angular, Vue, React, Nodejs, VScode
 ```
-### Backend
+#### Backend
 ``` bash
-Java, Springboot, WebSocket, Idea, Eclipse, Redis, kafka
+Java, Springboot, WebSocket, Idea, Eclipse, Redis, Kafka
 ```
-### Database
+#### Database
 ``` bash
 Jdbc, Oracle, MySql, MongoDB, PostgraySql, Navicat
 ```
-### IOT
+#### IOT
 ``` bash
 C, C++, Arduino, STM32, ESP32, Raspberry Pi, IMU, RSSI, Keil, VPN, MQTT
 ```
-### algorithm
+#### AI
 ``` bash
-AI, CV, LSTM, ML, NN, DL, CNN, VGG, ResNet, EfficientNet, Pycharm, Thonny
+CV, LSTM, ML, NN, DL, CNN, VGG, ResNet, EfficientNet, Pycharm, Thonny
 ```
-### VM
+#### VM
 ``` bash
 VM, Oracle VirtualBox, Xshell, Docker, Linux, Nginx
 ```
-### CG
+#### CG
 ``` bash
-UE5, VR, Unity, isaacsim
+UE5, VR, Unity, Isaacsim
 ```
-### 3D Print
+#### 3D
 ``` bash
-fusion360, onshape, bambu
+Fusion360, Onshape, Bambu
 ```
 
-<br>
+</div>
+
+
+<div class="trm-card trm-contrast trm-active-el">
 
 #### 如果你也对机器人或人工智能感兴趣，欢迎联系我~
+
+</div>
 
 <br>
 

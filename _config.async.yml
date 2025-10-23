@@ -75,17 +75,15 @@ sidebar:
       icon: fab fa-github
       url: https://github.com/caijinhong1999
     - name: gitee
-      icon: fas fa-code-branch
+      icon: fab fa-github-alt
       url: https://gitee.com/caijinhong1999
-    - name: email
-      icon: fas fa-envelope
-      url: mailto:cjh18242065873@163.com
+    - name: bilibili
+      icon: fab fa-bilibili
+      url: https://space.bilibili.com/551425363
     - name: wechat
       icon: fab fa-weixin
       url: /img/wx.jpg
-    - name: qq
-      icon: fab fa-qq
-      url: /img/qq.jpg
+    
     
 
 # 用户信息
@@ -109,6 +107,7 @@ assets:
 
 # 页脚
 footer:
+  copyright_year: 2025
   live_time:
     enable: true
     prefix: footer.tips
@@ -127,7 +126,7 @@ comment:
 
 # 站内搜索
 search:
-  enable: false
+  enable: true
   type: engine  # engine   local
   href: 'https://www.google.com/search?q=site:'
   # href: "https://www.baidu.com/s?wd=site:"
@@ -136,4 +135,12 @@ search:
   
 # SEO 设置
 baidu_push: true
+
+
+# 版权信息
+creative_commons:
+  license: by-nc-sa
+  language: deed.zh-hans
+  post: true
+  clipboard: true
 

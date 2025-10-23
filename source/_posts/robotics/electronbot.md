@@ -1,6 +1,6 @@
 ---
 title: ElectronBot
-date: 2025-10-13 21:34:16
+date: 2025-06-15 00:00:00
 tags: [舵机, 串口通信, 动态表情]
 category: robotics
 categories:
@@ -8,6 +8,8 @@ categories:
 cover: /img/electronbot.png
 comments: true
 ---
+
+起止时间：01/2025 ~ 06/2025
 
 独立复刻稚晖君 ElectronBot桌面机器人，硬件包含主控板，传感器版，舵机
 板，显示屏，麦克风，喇叭，摄像头等器件。复刻流程包含PCB贴片焊接、固
