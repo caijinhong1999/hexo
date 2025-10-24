@@ -11,6 +11,8 @@ comments: true
 
 起止时间：09/2025 ~ 10/2025
 
+技术栈： [UE5, C++]
+
 A Simple Maze Game. You can use mouse control the box move, you can also use W S A D keyboard move box, additionally, you can exit by keyboard Esc.  After download the Window.zip, you need decompress it and dobule click w2_lab2_maze1.exe, then you can have fun~
 
 项目已发布到：https://jinhongcai.itch.io/maze 

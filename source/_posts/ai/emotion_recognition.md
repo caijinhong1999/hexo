@@ -11,9 +11,9 @@ comments: true
 
 起止时间：02/2025 ~ 05/2025
 
-该项目是基于FER+数据集构建神经网络模型提高人脸情绪识别的准确度。作为
-团队负责人，我负责搭建项目框架，管理任务分配。我们对5种模型进行实验，
-发现将软标签与EfficientNet结合可以获得最佳性能，准确率达91%。
+技术栈：[CV, CNN, VGG, ResNet, EfficientNet]
+
+该项目是基于FER+数据集构建神经网络模型提高人脸情绪识别的准确度。作为团队负责人，我负责搭建项目框架，管理任务分配。我们对5种模型进行实验，发现将软标签与EfficientNet结合可以获得最佳性能，准确率达91%。
 
   ![emotion_recognition.png](/img/ai/emotion_recognition.png)_FER&FER+_
 

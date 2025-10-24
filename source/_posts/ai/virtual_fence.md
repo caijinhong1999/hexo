@@ -11,10 +11,9 @@ comments: true
 
 起止时间：06/2025 ~ 08/2025 
 
-该项目旨在利用Nano板实现基于RSSI指纹识别的室外蓝牙定位功能。可以
-实时检测动物的位置, 当动物出逃时发出警报并短息通知农场主。本人创新性提
-出结合IMU模块实现基于BiLSTM+multihead的时序建模与轨迹预测，可以
-提前预判动物是否有出逃行为，准确率达99%。 
+技术栈：[IOT, MQTT, RSSI, IMU, BiLSTM, Raspberry Pi, Arduino]
+
+该项目旨在利用Nano板实现基于RSSI指纹识别的室外蓝牙定位功能。可以实时检测动物的位置, 当动物出逃时发出警报并短息通知农场主。本人创新性提出结合IMU模块实现基于BiLSTM+multihead的时序建模与轨迹预测，可以提前预判动物是否有出逃行为，准确率达99%。 
 
 <div class="row">
   <div class="col-lg-12"><!-- title -->
