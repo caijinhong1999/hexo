@@ -5,7 +5,7 @@ tags: [激光雷达(LIDAR), Arduino, Raspberry Pi, VLA, 地图构建, 路径跟�
 category: robotics
 categories:
   - robotics
-cover: /img/wall_follower.jpg
+cover: /img/robotics/wall_follower.jpg
 comments: true
 ---
 
@@ -22,14 +22,14 @@ comments: true
   </div>
   <div class="col-lg-12"><!-- video -->
     <div class="trm-video trm-scroll-animation">
-      <div class="trm-video-content trm-overlay"><img src="/img/wall_follower.jpg" alt="video-cover">
+      <div class="trm-video-content trm-overlay"><img src="/img/robotics/wall_follower.jpg" alt="video-cover">
         <div class="trm-button-puls"></div>
         <a href="https://www.bilibili.com/video/BV1ejW2zhEWX/" class="trm-play-button" target="_blank"><i class="fas fa-play"></i></a></div>
     </div>
     <!-- video end --></div>
 </div>
 
-  ![wall_follower_map.jpg](/img/wall_follower_map.jpg)_自主构建图_
+  ![wall_follower_map.jpg](/img/robotics/wall_follower_map.jpg)_自主构建图_
 
 
 <script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.38/dist/twikoo.all.min.js"></script>

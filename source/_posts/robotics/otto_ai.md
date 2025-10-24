@@ -1,11 +1,11 @@
 ---
 title: OTTO_AI
-date: 2025-08-15 00:00:00
-tags: [舵机, wifi通信, 多语种交互]
+date: 2025-08-15 09:00:00
+tags: [舵机, wifi通信, 多语种交互, ESP32, 主控板, 舵机, 显示屏, 麦克风, 喇叭]
 category: robotics
 categories:
   - robotics
-cover: /img/otto_ai.png
+cover: /img/robotics/otto_ai.png
 comments: true
 ---
 
@@ -22,7 +22,7 @@ comments: true
   </div>
   <div class="col-lg-12"><!-- video -->
     <div class="trm-video trm-scroll-animation">
-      <div class="trm-video-content trm-overlay"><img src="/img/otto_ai.png" alt="video-cover">
+      <div class="trm-video-content trm-overlay"><img src="/img/robotics/otto_ai.png" alt="video-cover">
         <div class="trm-button-puls"></div>
         <a href="https://www.bilibili.com/video/BV16UWqzmEgn/" class="trm-play-button" target="_blank"><i class="fas fa-play"></i></a></div>
     </div>

@@ -1,11 +1,11 @@
 ---
 title: ElectronBot
-date: 2025-06-15 00:00:00
-tags: [舵机, 串口通信, 动态表情]
+date: 2025-06-15 09:00:00
+tags: [舵机, 串口通信, 动态表情, STM32, 主控板, 传感器版, 舵机板, 显示屏, 麦克风, 喇叭, 摄像头]
 category: robotics
 categories:
   - robotics
-cover: /img/electronbot.png
+cover: /img/robotics/electronbot.png
 comments: true
 ---
 
@@ -22,7 +22,7 @@ comments: true
   </div>
   <div class="col-lg-12"><!-- video -->
     <div class="trm-video trm-scroll-animation">
-      <div class="trm-video-content trm-overlay"><img src="/img/electronbot.png" alt="video-cover">
+      <div class="trm-video-content trm-overlay"><img src="/img/robotics/electronbot.png" alt="video-cover">
         <div class="trm-button-puls"></div>
         <a href="https://www.bilibili.com/video/BV16UWqzmEgn/" class="trm-play-button" target="_blank"><i class="fas fa-play"></i></a></div>
     </div>

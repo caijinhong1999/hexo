@@ -60,7 +60,7 @@ banner:
 # 侧边栏
 sidebar:
   typed_text_prefix: I`m
-  typed_text: ["多模态算法工程师","机器人狂热爱好者","UE5游戏设计师","三年全栈软件开发工作经验"]
+  typed_text: ["多模态算法工程师","AI大模型算法工程师", "机器人狂热爱好者","UE5游戏设计师","三年全栈软件开发工作经验"]
   info: # 个人信息
     - key: ADDRESS
       val: 悉尼
@@ -94,7 +94,7 @@ user:
   email: cjh18242065873@163.com
   domain: https://jinhongcai.work
   avatar: /img/cjh.jpg
-  describe: 多模态算法工程师 | 机器人爱好者 | 开源爱好者 | 电子产品DIY爱好者
+  describe: 多模态算法工程师 | AI大模型算法工程师 | 机器人爱好者 | 开源爱好者 | 电子产品DIY爱好者
   rule_text: 本站所有文章除特别声明外，均采用 CC BY-NC-SA 4.0 许可协议。转载请注明出处！
 
 # 评论系统所需的第三方脚本（让主题能加载 twikoo）

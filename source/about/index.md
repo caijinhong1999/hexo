@@ -12,44 +12,62 @@ comments: true
 
 <div class="trm-card trm-contrast trm-active-el">
 
-### 我的技能
-<br>
+### 👋 你好，我是JinhongCAI（Jessie）
 
-#### Frontend
-``` bash
-Html, Css, Js, Jq, Ts, Ajax, Angular, Vue, React, Nodejs, VScode
-```
-#### Backend
-``` bash
-Java, Springboot, WebSocket, Idea, Eclipse, Redis, Kafka
-```
-#### Database
-``` bash
-Jdbc, Oracle, MySql, MongoDB, PostgraySql, Navicat
-```
-#### IOT
-``` bash
-C, C++, Arduino, STM32, ESP32, Raspberry Pi, IMU, RSSI, Keil, VPN, MQTT
-```
-#### AI
-``` bash
-CV, LSTM, ML, NN, DL, CNN, VGG, ResNet, EfficientNet, Pycharm, Thonny
-```
-#### VM
-``` bash
-VM, Oracle VirtualBox, Xshell, Docker, Linux, Nginx
-```
-#### CG
-``` bash
-UE5, VR, Unity, Isaacsim
-```
-#### 3D
-``` bash
-Fusion360, Onshape, Bambu
-```
+**AI大模型算法工程师 | 视觉感知算法工程师 | 机器人软件开发工程师**  
+目前在 **新南威尔士大学（UNSW Sydney）攻读人工智能硕士**，  
+专注于多模态算法、机器人感知与系统部署。
+
+过去十年，我从数学专业到Java全栈软件开发工程师再到现在AI硕士，  
+历经前端、后端、数据库与部署等完整软件体系，以及算法、IOT、Robotics等实战项目落地。  
+这种工程背景，使我能够从系统层面理解算法的落地与集成。
+
+---
+
+### ⚙️ 技术能力
+
+**多模态与AI**
+- 图像与传感融合：CV, L2A, CNN, VGG, ResNet, EfficientNet, LSTM, Attention, PyTorch, Pycharm 
+- 语音与信号处理：Azure Speech, Whisper, RNN  
+- 模型部署与接口：FastAPI, Docker, Oracle VirtualBox, Git  
+
+**IOT与机器人系统**
+- 设备通信：BLE, WIFI, IMU, RSSI, MQTT, AWS, VPN
+- 嵌入式开发：C, C++, Keil, Arduino, ESP32, STM32, Raspberry Pi  
+- 仿真与环境建模：IsaacSim, Unreal Engine 5, Unity 
+- 3D打印：Fusion360, Onshape, Bambu
+
+**软件工程与系统架构**
+- 前后端：Java, Spring Boot, Angular, React, NodeJs, Idea, VSCode 
+- 数据库：MySQL, MongoDB, Oracle, PostgraySql, Navicat, Redis, Kafka 
+- 部署：Linux, Nginx, CI/CD, Docker  
+
+---
+
+### 🧠 代表项目
+- 🐑 **Nomad Virtual Fence System**  
+  BLE+IMU 数据融合，BiLSTM 行为识别，MQTT IoT 实时监控。
+
+- 🐾 **Accent Translation Web Service**  
+  React + Firebase 平台，结合 Azure Speech 实现实时口音转译。
+
+- 💎 **Maze Crystal (UE5)**  
+  基于 Unreal Engine 5 的交互式 3D 仿真，用于机器人环境研究。
+
+---
+
+### 🎯 目标与信念
+我希望在机器人公司从事 **AI算法工程师或机器人软件开发工程师** 的研发工作，  
+让算法不仅停留在模型层，更能在现实世界中“理解与行动”。
+
+> “我始终相信：技术的意义，不在于炫技，而在于连接智能与现实。”
+
+---
+
+**Currently seeking:**  
+> AI Algorithm Engineer / Robotics Software Developer  
 
 </div>
-
 
 <div class="trm-card trm-contrast trm-active-el">
 
@@ -57,7 +75,6 @@ Fusion360, Onshape, Bambu
 
 </div>
 
-<br>
 
 <script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.38/dist/twikoo.all.min.js"></script>
 <script>twikoo.init({el: '#twikoo',envId: 'https://comment.jinhongcai.work'})</script>

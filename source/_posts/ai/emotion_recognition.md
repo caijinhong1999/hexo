@@ -5,7 +5,7 @@ tags: [CV, CNN, VGG, ResNet, EfficientNet]
 category: AI
 categories:
   - AI
-cover: /img/emotion_recognition.png
+cover: /img/ai/emotion_recognition.png
 comments: true
 ---
 
@@ -15,7 +15,7 @@ comments: true
 团队负责人，我负责搭建项目框架，管理任务分配。我们对5种模型进行实验，
 发现将软标签与EfficientNet结合可以获得最佳性能，准确率达91%。
 
-  ![emotion_recognition.png](/img/emotion_recognition.png)_FER&FER+_
+  ![emotion_recognition.png](/img/ai/emotion_recognition.png)_FER&FER+_
 
 
 <script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.38/dist/twikoo.all.min.js"></script>

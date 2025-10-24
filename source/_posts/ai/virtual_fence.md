@@ -1,11 +1,11 @@
 ---
 title: 游牧虚拟围栏
-date: 2025-08-15 00:00:00
+date: 2025-08-15 09:00:00
 tags: [IOT, MQTT, RSSI, IMU, BiLSTM, Raspberry Pi, Arduino]
 category: AI
 categories:
   - AI
-cover: /img/virtual_fence.png
+cover: /img/ai/virtual_fence.png
 comments: true
 ---
 
@@ -22,7 +22,7 @@ comments: true
   </div>
   <div class="col-lg-12"><!-- video -->
     <div class="trm-video trm-scroll-animation">
-      <div class="trm-video-content trm-overlay"><img src="/img/virtual_fence.png" alt="video-cover">
+      <div class="trm-video-content trm-overlay"><img src="/img/ai/virtual_fence.png" alt="video-cover">
         <div class="trm-button-puls"></div>
         <a href="https://www.bilibili.com/video/BV1iGW2zPE1a/" class="trm-play-button" target="_blank"><i class="fas fa-play"></i></a></div>
     </div>
