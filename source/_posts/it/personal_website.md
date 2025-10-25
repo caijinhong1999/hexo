@@ -34,6 +34,7 @@ namecheap申请可以多次选择，有很多域名4$/year左右，价格美丽~
 
 # 4. 配置nginx
 
+``` bash
 1) 基础环境 & Nginx
 ## 1. 更新系统，安装必备软件：Nginx、Git、Node.js 20
 apt-get update && apt-get -y upgrade
@@ -142,13 +143,14 @@ Let’s Encrypt 会自动帮你：
 如果显示绿色小锁 🔒
 说明你的博客现在已经全球可访问、并启用了加密连接。
 
+```
+
 
 
 # 5. 开启评论区
-
+``` bash
 方案① Docker + Docker Compose 一步部署 Twikoo + MongoDB
 这是零成本、最省心、最快速的方式。
-下面是完整步骤👇
 
 🔹 Step 1：安装 Docker 与 Docker Compose
 在 Ubuntu 终端执行：
@@ -243,11 +245,11 @@ comments:
 
 hexo clean && hexo g && hexo s
 打开文章页，底部应出现 Twikoo 评论框。
-
+```
 
 # 6. 解决CORS问题
+``` bash
 关键提示是：
-
 Access to XMLHttpRequest at '（你的后端域名）' 
 from origin '你的前端域名）' 
 has been blocked by CORS policy: Response to preflight request doesn't pass access control check: 
@@ -320,9 +322,7 @@ server {
     }
 
 }
+```
+
 
 # 欢迎大家有问题评论区留言~
-
-<script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.38/dist/twikoo.all.min.js"></script>
-<script>twikoo.init({el: '#twikoo',envId: 'https://comment.jinhongcai.work'})</script>
-

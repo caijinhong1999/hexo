@@ -35,7 +35,3 @@ USB3300 高速USB通讯芯片
     </div>
     <!-- video end --></div>
 </div>
-
-<script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.38/dist/twikoo.all.min.js"></script>
-<script>twikoo.init({el: '#twikoo',envId: 'https://comment.jinhongcai.work'})</script>
-

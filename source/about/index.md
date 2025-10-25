@@ -1,11 +1,11 @@
 ---
 title: about
 date: 2025-10-17 21:12:02
-layout: about
+layout: page
 banner:
   type: video
   bgurl: https://cdn.moji.com/websrc/video/video621.mp4
-  banner_title: 海内存知己，<br>天涯若比邻。
+  banner_title: 保持热爱，奔赴星海。
   banner_text: About me
 comments: true
 ---
@@ -59,8 +59,6 @@ comments: true
 我希望在机器人公司从事 **AI算法工程师或机器人软件开发工程师** 的研发工作，  
 让算法不仅停留在模型层，更能在现实世界中“理解与行动”。
 
-> “保持热爱，奔赴山海。”
-
 ---
 
 **Currently seeking:**  
@@ -73,10 +71,4 @@ comments: true
 #### 如果你也对机器人或人工智能感兴趣，欢迎联系我~
 
 </div>
-
-
-<script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.38/dist/twikoo.all.min.js"></script>
-<script>twikoo.init({el: '#twikoo',envId: 'https://comment.jinhongcai.work'})</script>
-
-
 

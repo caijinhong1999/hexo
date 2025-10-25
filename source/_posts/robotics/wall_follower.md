@@ -28,9 +28,7 @@ comments: true
     <!-- video end --></div>
 </div>
 
-  ![wall_follower_map.jpg](/img/robotics/wall_follower_map.jpg)_自主构建图_
+<br>
 
-
-<script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.38/dist/twikoo.all.min.js"></script>
-<script>twikoo.init({el: '#twikoo',envId: 'https://comment.jinhongcai.work'})</script>
+![wall_follower_map.jpg](/img/robotics/wall_follower_map.jpg)_自主构建图_
 

@@ -26,8 +26,8 @@ top_bars:
     url: /archives/
   - title: menu.about
     url: /about/
-  - title: 相册
-    url: /gallery/
+  - title: 友链
+    url: /links/
 
 
 banner:
@@ -43,24 +43,24 @@ banner:
   category: ## 归档页横幅
     type: video
     bgurl: https://cdn.moji.com/websrc/video/winter20181129.mp4
-    banner_title: 云间连下榻，<br>天上接行杯。
+    banner_title: 云间连下榻，天上接行杯。
     banner_text: The article categories
   tag:
     type: video
     bgurl: https://cdn.moji.com/websrc/video/spring20190320.mp4
-    banner_title: 醉后不知天在水，<br>满船清梦压星河。
+    banner_title: 醉后不知天在水，满船清梦压星河。
     banner_text: The article tags 
   archive:
     type: video
     bgurl: https://cdn.moji.com/websrc/video/video.mp4
-    banner_title: 树深时见鹿，<br>溪午不闻钟。
+    banner_title: 树深时见鹿，溪午不闻钟。
     banner_text: The article archive
 
 
 # 侧边栏
 sidebar:
   typed_text_prefix: I`m
-  typed_text: ["多模态算法工程师","AI大模型算法工程师", "机器人狂热爱好者","UE5游戏设计师","三年全栈软件开发工作经验"]
+  typed_text: ["多模态算法工程师", "AI大模型算法工程师", "机器人狂热爱好者","UE5游戏设计师","三年全栈软件开发工作经验"]
   info: # 个人信息
     - key: ADDRESS
       val: 悉尼
@@ -97,14 +97,28 @@ user:
   describe: 多模态算法工程师 | AI大模型算法工程师 | 机器人爱好者 | 开源爱好者 | 电子产品DIY爱好者
   rule_text: 本站所有文章除特别声明外，均采用 CC BY-NC-SA 4.0 许可协议。转载请注明出处！
 
+# Individually configured friend link information | 友链说明配置
+links_info:
+  name: JinhongCAI # Site title | 站点标题
+  url: https://jinhongcai.work # Site url | 站点地址
+  avatar: /img/icon.jpg # Site avatar | 友链头像
+  describe: IT+AI+ROBOTICS # Describe | 友链介绍
+  rule_text: 尊重原创，欢迎留言~。 # 友链规则
+
+links:
+  - name: 白云苍狗
+    url: https://www.imalun.com/
+    image: https://www.imalun.com/images/avatar.jpg
+    desc: 醒，亦在人间；梦，亦在人间。
+
+
 # 评论系统所需的第三方脚本（让主题能加载 twikoo）
 assets:
   internal_provider: unpkg
   third_party_provider: jsdelivr
   plugin:
     # 用主题默认路径即可；要锁新版也可改成 1.6.38
-    twikoo: /twikoo@1.6.7/dist/twikoo.all.min.js
-
+    twikoo: https://cdn.jsdelivr.net/npm/twikoo@1.6.38/dist/twikoo.all.min.js
 # 页脚
 footer:
   copyright_year: 2025
@@ -113,7 +127,6 @@ footer:
     prefix: footer.tips
     start_time: 10/10/2025 00:00:00
 
-# ！！！关键：只启用 twikoo，彻底禁用 bComments
 comment:
   enable: true            # 有些版本有这个总开关，写上更稳
   type: twikoo            # 如果你的主题支持 type/use，写上它，强制选择 twikoo
@@ -122,7 +135,8 @@ comment:
     envId: https://comment.jinhongcai.work
   bComments:
     enable: false         # ← 必须为 false，或直接把 bComments 这段删掉
-
+  giscus:
+    enable: false
 
 # 站内搜索
 search:

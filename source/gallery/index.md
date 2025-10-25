@@ -1,7 +1,7 @@
 ---
 title: gallery
 date: 2025-10-17 21:12:52
-# layout: page  # 可省略，保持默认 page 布局即可
+layout: page
 banner:
   type: video
   bgurl: https://cdn.moji.com/websrc/video/summer20190515.mp4

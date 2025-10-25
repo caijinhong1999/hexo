@@ -21,9 +21,7 @@ A Simple Maze Game. You can use mouse control the box move, you can also use W S
 链接: https://pan.baidu.com/s/1seg6IvrRHW5sQqmlYKHpxA?pwd=1234 
 提取码: 1234
 
+<br>
 
 ![maze](/img/cg/maze.png)
-
-<script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.38/dist/twikoo.all.min.js"></script>
-<script>twikoo.init({el: '#twikoo',envId: 'https://comment.jinhongcai.work'})</script>
 
