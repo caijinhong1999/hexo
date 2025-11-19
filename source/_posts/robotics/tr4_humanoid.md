@@ -1,7 +1,7 @@
 ---
-title: tr4_humanoid
+title: TR4_Humanoid
 date: 2025-11-19 17:24:08
-tags: [激光雷达(LIDAR), Arduino, Raspberry Pi, VLA, 地图构建, 路径跟随]
+tags: [GUI, LLM, DeepSeek-V3.2-Exp, IK, PinkIK, DLS, WebSocket, Isaac Sim, usdf, usd]
 category: robotics
 categories:
   - robotics
