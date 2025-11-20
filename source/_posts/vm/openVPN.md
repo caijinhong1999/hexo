@@ -1,11 +1,12 @@
 ---
 title: openVPN
 date: 2025-11-19 21:12:29
-tags: [Linux, Ubuntu, RackNerd, OpenVPN, Forward Proxy]
-category: vm
+tags: [Linux, Ubuntu, RackNerd, VPN, OpenVPN, Forward Proxy]
+category: VM
 categories:
-  - vm
+  - VM
 cover: /img/vm/openVPN.png
+published: false
 comments: true
 ---
 
