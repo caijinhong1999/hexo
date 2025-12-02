@@ -6,7 +6,7 @@ category: VM
 categories:
   - VM
 cover: /img/vm/openVPN.png
-published: false
+published: true
 comments: true
 ---
 
