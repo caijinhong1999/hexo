@@ -26,7 +26,7 @@ comments: true
     <div class="trm-video trm-scroll-animation">
       <div class="trm-video-content trm-overlay"><img src="/img/robotics/otto_ai.png" alt="video-cover">
         <div class="trm-button-puls"></div>
-        <a href="https://www.bilibili.com/video/BV16UWqzmEgn/" class="trm-play-button" target="_blank"><i class="fas fa-play"></i></a></div>
+        <a href="https://www.bilibili.com/video/BV1FUWqzUE2L" class="trm-play-button" target="_blank"><i class="fas fa-play"></i></a></div>
     </div>
     <!-- video end --></div>
 </div>
