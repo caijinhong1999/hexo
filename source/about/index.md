@@ -25,7 +25,7 @@ comments: true
 ### ⚙️ 技术能力
 
 **IT软件工程与系统架构**
-- 前后端：Python, Java, astAPI, SpringBoot, Angular, Idea, VSCode, Pycharm 
+- 前后端：Python, Java, SpringBoot, Angular, Idea, VSCode, Pycharm 
 - 数据库：MySQL, MongoDB, Oracle, PostgraySql, Navicat, Redis, Kafka 
 - 部署：Linux, Nginx, CI/CD, Docker, DevOps, Git, Oracle VirtualBox
 
@@ -45,13 +45,13 @@ comments: true
 ### 🧠 代表项目
 - **TR4_Humanoid**  
   构建可拓展的GUI + WebSocket + DeepSeek + 指令解析 + 动作序列生成 + IK/DLS + IsaacSim控制执行体系。
-
+  AI智能体创新大赛优秀奖 top7%
 - **Wall_Follower**  
   基于 LiDAR + Camera 的多模态感知系统，使用 RViz 完成 SLAM 建图，实现自主巡航与避障。
-
-- **Accent Translation**  
+  机器人软件架构 Grade:HD
+- **SystemX**  
   设计端到端实时语音转译系统，接入Firebase 平台，结合 Speechmatics + Aruze 实现实时口音转译系统。
-
+  毕设 Grade: HD
 ---
 
 ### 🎯 目标与信念
