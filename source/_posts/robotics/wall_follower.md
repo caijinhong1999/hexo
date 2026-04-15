@@ -20,7 +20,7 @@ comments: true
 在硬件层面，系统集成 Arduino（底盘与传感器采集）与 Raspberry Pi（高层路径规划与视觉识别），并结合 视觉标识识别（RGB-D Camera） 辅助地标定位，实现从传感器采集、决策规划到运动执行的完整自主导航闭环。
 <div class="row">
   <div class="col-lg-12"><!-- title -->
-    <h5 class="trm-mb-40 trm-mt-20 trm-title-with-divider">bilibili效果展示<span data-number="05"></span></h5>
+    <h5 class="trm-mb-40 trm-mt-20 trm-title-with-divider">bilibili效果展示<span data-number="1023"></span></h5>
   </div>
   <div class="col-lg-12"><!-- video -->
     <div class="trm-video trm-scroll-animation">
