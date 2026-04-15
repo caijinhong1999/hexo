@@ -9,7 +9,7 @@ cover: /img/robotics/piper.png
 comments: true
 ---
 
-起止时间：11/2025 ~ 12/2025
+起止时间：03/2026 ~ 04/2026
 
 技术栈：[ROS2, Rviz, yoloV8, Piper, Orbbec, CAN, VLA, ACT, Diffusion Policy]
 
