@@ -1,7 +1,7 @@
 ---
-title: robotic_arm
+title: openclaw_piper
 date: 2026-04-15 12:31:32
-tags: [ROS2, Rviz, yoloV8, Piper, Orbbec, CAN, VLA, ACT, Diffusion Policy]
+tags: [Openclaw, Piper, Orbbec, CAN, ROS2, Rviz, yoloV8, VLA, ACT, Diffusion Policy]
 category: robotics
 categories:
   - robotics
