@@ -13,9 +13,10 @@ comments: true
 <div class="trm-card trm-contrast trm-active-el">
 
 ### 👋 你好，我是JinhongCAI（Jessie）
-当前求职方向：**语音/视觉/多模态算法 工程师 | Agent 工程师  | JAVA 软件开发工程师**
+当前求职方向：**具身智能 算法工程师 | Agent 算法工程师  | JAVA 软件开发工程师**
 
-我目前在 **新南威尔士大学（UNSW Sydney）** 攻读人工智能硕士，专注于多模态算法、机器人感知算法、智能系统部署。
+我来自 **新南威尔士大学（UNSW Sydney）** 人工智能硕士，专注于多模态算法、机器人感知算法、智能系统部署。
+目前在 **浙大杭州国际科创中心  生物与分子智造实验室 AI交叉中心** 实习 AI算法工程师。
 过去十年，我的经历跨越了 数学学士 → JAVA软件开发工程师 → 人工智能硕士。
 系统掌握了 前端，后端，数据库，算法，部署 等完整的软件工程体系，同时深度参与 IT, AI, Robotics 的项目落地。
 这种扎实的工程背景，使我能够从 系统全局视角 理解算法的 实现、优化与产品化集成，并致力于将前沿AI技术转化为 可落地、可部署的智能系统。
@@ -43,15 +44,15 @@ comments: true
 ---
 
 ### 🧠 代表项目
+- **Openclaw_Piper**  
+  基于 OpenClaw Skill 框架，构建了一个由 Agent 驱动的视觉引导机械臂抓取系统，实现了从感知、决策到执行的端到端闭环控制。
+  真机操作：准确率90%以上
 - **TR4_Humanoid**  
   构建可拓展的GUI + WebSocket + DeepSeek + 指令解析 + 动作序列生成 + IK/DLS + IsaacSim控制执行体系。
-  AI智能体创新大赛优秀奖 top7%
+  AI智能体创新大赛优秀奖 top5%
 - **Wall_Follower**  
   基于 LiDAR + Camera 的多模态感知系统，使用 RViz 完成 SLAM 建图，实现自主巡航与避障。
   机器人软件架构 Grade:HD
-- **SystemX**  
-  设计端到端实时语音转译系统，接入Firebase 平台，结合 Speechmatics + Aruze 实现实时口音转译系统。
-  毕设 Grade: HD
 ---
 
 ### 🎯 目标与信念
