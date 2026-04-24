@@ -74,9 +74,9 @@ sidebar:
     - name: github
       icon: fab fa-github
       url: https://github.com/caijinhong1999
-    - name: cv
-      icon: fas fa-file-powerpoint
-      url: /cv/蔡金红-硕士-新南威尔士大学-人工智能专业-18242065873.pdf
+    # - name: cv
+    #   icon: fas fa-file-powerpoint
+    #   url: /cv/蔡金红-硕士-新南威尔士大学-人工智能专业-18242065873.pdf
     - name: bilibili
       icon: fab fa-bilibili
       url: https://space.bilibili.com/551425363

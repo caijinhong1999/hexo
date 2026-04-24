@@ -15,9 +15,9 @@ comments: true
 ### 👋 你好，我是JinhongCAI（Jessie）
 当前求职方向：**具身智能 算法工程师 | Agent 算法工程师  | JAVA 软件开发工程师**
 
-我来自 **新南威尔士大学（UNSW Sydney）** 人工智能硕士，专注于多模态算法、机器人感知算法、智能系统部署。
-目前在 **浙大杭州国际科创中心  生物与分子智造实验室 AI交叉中心** 实习 AI算法工程师。
-过去十年，我的经历跨越了 数学学士 → 软件开发工程师 → 人工智能硕士 -> 具身智能算法工程师。
+我来自 **新南威尔士大学（UNSW Sydney）** 人工智能硕士，专注于Agent算法开发。
+目前在 **区块链数据与安全研究院** 正式工作 AI算法工程师。
+过去十年，我的经历跨越了 数学学士 → 软件开发工程师 → 人工智能硕士 -> AI算法工程师。
 系统掌握了 前端，后端，数据库，算法，部署 等完整的软件工程体系，同时深度参与 IT, AI, Robotics 的项目落地。
 这种扎实的工程背景，使我能够从 系统全局视角 理解算法的 实现、优化与产品化集成，并致力于将前沿AI技术转化为 可落地、可部署的智能系统。
 
@@ -33,6 +33,7 @@ comments: true
 **AI多模态**
 - 图像与传感融合：PyTorch, VGG, ResNet, EfficientNet, BiLSTM, Attention 
 - 语音与信号处理：Speechmatics, Azure, VAD, ASR, TTS
+- Agent: MCP, RAG, Skill, Tools, Content, Prompt, LoRA, Langchain
 
 **Robotics与物联网系统**
 - 机器人系统：SLAM, ROS2, RViz, TurtleBot3, LiDAR, Camera
@@ -56,7 +57,7 @@ comments: true
 ---
 
 ### 🎯 目标与信念
-我希望从事 **AI算法工程师或算法工程开发工程师** 相关的研发工作，  
+我希望从事 **AI算法工程师** 相关的研发工作，  
 让算法不仅停留在模型层，更能在现实世界中“理解与行动”。
 
 ---
