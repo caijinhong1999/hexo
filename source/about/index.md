@@ -13,9 +13,9 @@ comments: true
 <div class="trm-card trm-contrast trm-active-el">
 
 ### 👋 你好，我是JinhongCAI（Jessie）
-当前求职方向：**Agent 算法工程师**
+当前求职方向：**AI算法工程师**
 
-我来自 **新南威尔士大学（UNSW Sydney）** 人工智能硕士，专注于Agent算法开发。
+我来自 **新南威尔士大学（UNSW Sydney）** 人工智能硕士，专注于AI算法开发。
 目前在 **区块链与数据安全研究院** 正式工作 AI算法工程师。
 过去十年，我的经历跨越了 数学学士 → 软件开发工程师 → 人工智能硕士 -> AI算法工程师。
 系统掌握了 前端，后端，数据库，算法，部署 等完整的软件工程体系，同时深度参与 IT, AI, Robotics 的项目落地。
