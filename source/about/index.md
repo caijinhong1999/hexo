@@ -17,7 +17,7 @@ comments: true
 
 我来自 **新南威尔士大学（UNSW Sydney）** 人工智能硕士，专注于AI算法开发。
 目前在 **区块链与数据安全研究院** 正式工作 AI算法工程师。
-过去十年，我的经历跨越了 数学学士 → 软件开发工程师 → 人工智能硕士 -> AI算法工程师。
+过去十年，我的经历跨越了 数学学士 → 软件开发工程师 → 人工智能硕士 → AI算法工程师。
 系统掌握了 前端，后端，数据库，算法，部署 等完整的软件工程体系，同时深度参与 IT, AI, Robotics 的项目落地。
 这种扎实的工程背景，使我能够从 系统全局视角 理解算法的 实现、优化与产品化集成，并致力于将前沿AI技术转化为 可落地、可部署的智能系统。
 
@@ -28,18 +28,18 @@ comments: true
 **IT软件工程与系统架构**
 - 前后端：Python, Java, SpringBoot, Angular, Idea, VSCode, Pycharm 
 - 数据库：MySQL, MongoDB, Oracle, PostgraySql, Navicat, Redis, Kafka 
-- 部署：Linux, Nginx, CI/CD, Docker, DevOps, Git, Oracle VirtualBox
+- 部署：Linux, Nginx, CI/CD, Docker, DevOps, Git, Xshell, VirtualBox
 
 **AI多模态**
-- 图像与传感融合：PyTorch, VGG, ResNet, EfficientNet, BiLSTM, Attention 
-- 语音与信号处理：Speechmatics, Azure, VAD, ASR, TTS
+- 视觉：Pytorch, Transformer, Yolo-V8, CNN, VGG, ResNet, EfficientNet
+- 语音：Speechmatics, Azure, VAD, ASR, TTS
 - Agent: MCP, RAG, Skill, Tools, Content, Prompt, LoRA, Langchain
 
 **Robotics与物联网系统**
-- 机器人系统：SLAM, ROS2, RViz, TurtleBot3, LiDAR, Camera
-- 设备通信：BLE, WIFI, IMU, RSSI, MQTT, AWS, VPN
-- 嵌入式开发：C, C++, Keil, Arduino, ESP32, STM32, Raspberry Pi  
-- 仿真与环境建模：IsaacSim, Unreal Engine 5, Unity 
+- 机器人：SLAM, ROS2, RViz, TurtleBot3, LiDAR, Camera
+- 通信：BLE, WIFI, IMU, RSSI, MQTT, AWS, VPN
+- 嵌入式：C, C++, Keil, Arduino, ESP32, STM32, Raspberry Pi  
+- 仿真：IsaacSim, Unreal Engine 5, Unity 
 - 3D打印：Fusion360, Onshape, Bambu
 
 ---
